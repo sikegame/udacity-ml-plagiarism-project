@@ -1,0 +1,6 @@
+__MACOSX/
+data/
+notebook_ims/
+data.zip*
+.ipynb_checkpoints/
+__pycache__/
